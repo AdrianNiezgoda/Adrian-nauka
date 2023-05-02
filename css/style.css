@@ -1,6 +1,7 @@
 h1 {
     font-size: 58px;
     text-align: center;
+    color: red;
 }
 h2 {
     font-size: 48px;
@@ -10,4 +11,5 @@ h2 {
 p {
     font-size: 36px;
     text-align: center;
+    color: blue;
 }

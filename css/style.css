@@ -1,15 +1,15 @@
 h1 {
     font-size: 58px;
-    text-align: center;
+    text-align: right;
     color: red;
 }
 h2 {
     font-size: 48px;
     color: green; 
-    text-align: center;
+    text-align: right;
 }
 p {
     font-size: 36px;
-    text-align: center;
+    text-align: right;
     color: blue;
 }
